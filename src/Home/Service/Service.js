@@ -14,7 +14,7 @@ const Service = ({ service }) => {
       <h2>{name}</h2>
       <h5 className="text-warning">$ {price}</h5>
       <p>
-        <small>{description.slice(0, 100)}...</small>
+        <small>{description.slice(0, 90)}...</small>
       </p>
       <button
         className="btn btn-effect"
