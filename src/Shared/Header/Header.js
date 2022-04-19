@@ -21,7 +21,7 @@ const Header = () => {
     >
       <Container>
         <Navbar.Brand className="fw-bold" as={CustomLink} to={"/home"}>
-          <span className="brand-name">Travel Baba</span>
+          <span className="brand-name">Sutra Travel</span>
         </Navbar.Brand>
         <Navbar.Toggle
           className="text-warning"
