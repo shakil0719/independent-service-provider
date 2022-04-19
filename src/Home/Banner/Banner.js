@@ -14,7 +14,7 @@ const Banner = () => {
           <Carousel.Caption className="">
             <p className="font-style-heading">
               The most beautiful thing in the world is, of course, the world
-              itself
+              itself!!
             </p>
             <p>
               <span className="font-style">
