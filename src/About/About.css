@@ -1,0 +1,8 @@
+.profile{
+    height: 320px;
+    width: 320px;
+    border-radius: 50%;
+}
+.minheight{
+    min-height: 72vh;
+}

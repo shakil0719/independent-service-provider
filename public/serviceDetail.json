@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Single Day",
+        "price": "300",
+        "description": "Single Day package includes whole day tour experience at Sundarban Forest, There I will Guide you Through out The Whole journey. We will be Visiting the River by Boat and will also have a little camp in the evening",
+        "img": "https://i.ibb.co/NZQkZ6r/pexels-chanaka-madushan-sugathadasa-999068.jpg"
+    },
+    {
+        "id": 2,
+        "name": "3 Days",
+        "price": "450",
+        "description": "3 Days Package includes 6 places in Bandarban. We will be visiting NafaKhum , Debota Khum, Nilachol, Nill Giri, Chimbuk pahar and Heli pad. We will be Using Jeep for road trip and then we will be tracking to our destination",
+        "img": "https://i.ibb.co/Mp25yVN/pexels-malte-luk-2432299.jpg"
+    },
+    {
+        "id": 3,
+        "name": "7 Days",
+        "price": "750",
+        "description": "This Includes The Cox's package. For a Relaxing Holiday introducing you this package. I will Guide you to the best and historical places of Cox's Bazar and Chittagong like Laboni beach, Sughanda Beach, Napitta Chora ",
+        "img": "https://i.ibb.co/mC4y1Hs/pexels-th-nh-tr-n-3788363.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Platinum",
+        "price": "2500",
+        "description": "The is a Combo package For Your month Long relaxation. This Includes The Best Historical Places of Bangladesh. This includes the historical places of MaynaMati, Cox's Bazar, Sylhet and Bandarban and also some traditional function of Tribes",
+        "img": "https://i.ibb.co/zNK63y3/pexels-v-o-y-t-a-2928116.jpg"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "question": "Difference between authorization and authentication?",
+        "answer": "Authentication and authorization are two distinct steps required for access control. Namely, determining whether someone has permission to get access to something. To illustrate the difference between the two concepts, let’s take the example of trying to get into a club. Authentication refers to verifying identity: verifying that the person is who they claim to be. Authorization refers to determining whether a particular identity is allowed to access the thing they are requesting access to"
+    },
+    {
+        "question": "Why are you using firebase? What other options do you have to implement authentication?",
+        "answer": "Firebase is a JSON document store (database) which allows for storing documents (stuff like JSON). It’s really easy to set up an account and have a globally visible database. It’s fantastic for prototyping mobile apps since it’s so quick to get up and running. It’s not a high performance database, nor the cheapest service, but it is one of the easiest I’ve seen. It’s free for very low volume usage."
+    },
+    {
+        "question": "What other services does firebase provide other than authentication?",
+        "answer": "1. we can play around with it and build : Analytics 2.Real Time Database 3.Storage 4. Hosting 5. Cloud Messaging 6. Notifications"
+    }
+]

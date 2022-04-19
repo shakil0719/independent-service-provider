@@ -1,0 +1,19 @@
+.form{
+    border: 2px solid rgba(0, 0, 0, 0.308);
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+    
+    
+}
+p{
+    font-family: cursive;
+}
+
+.golden{
+    color: white;
+    font-weight: 500;
+}
+.golden:hover{
+color: goldenrod;
+}
